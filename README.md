@@ -116,7 +116,7 @@ SECRET_KEY=your_jwt_secret_here
 * [x] `README.md` provides clear instructions to run project
 
 ---
-## 💡 Notes for Reviewer / Future You
+## 💡 Notes for Reviewer 
 
 * Clone repo and follow **Quick Start** section
 * Demo user is pre-seeded; can create more resumes
